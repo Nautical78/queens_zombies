@@ -17,12 +17,11 @@ Feral Frosh — fast and aggressive, takes 1 hit
 Varsity Athletes — heavily built, takes 6 hits
 
 Weapons
-
 Pistol — starting weapon, 20 rounds
 Shotgun — found in the ARC
 Fire Axe — found in the Queen's Centre
 
 Play in Browser
 Open index.html in any modern browser — no installation required.
-Live Version
-Play on GitHub Pages
+
+Live Version — Play on GitHub Pages
